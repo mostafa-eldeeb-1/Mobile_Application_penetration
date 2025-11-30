@@ -6,5 +6,4 @@ We will focus on understanding how to test mobile apps (Android & iOS) for secur
 - Mostafa Ahmed Ramy Eldeeb (Team Leader)
 - Omar Massad Hagrass
 - Ahmed Hamdy Mansour
-- Mahmoud Nabil Ibrahim
 - Mariam Medhat Mohamed
